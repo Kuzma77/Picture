@@ -1,9 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T05:09:11.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" version="21.2.3" etag="KGWHAoMARKUqGlqKhBc1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T08:06:47.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="MfGR-o8BzrpUY8cq6sg4" version="21.2.3" type="github">
   <diagram name="第 1 页" id="bs7ciwgvWJBei0MA67t3">
-    <mxGraphModel>
+    <mxGraphModel dx="993" dy="1787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="41" y="-717" width="739" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dtvHrzLsLEVOdEbu_5ml-16" source="dtvHrzLsLEVOdEbu_5ml-17" target="dtvHrzLsLEVOdEbu_5ml-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="199" as="sourcePoint" />
+            <mxPoint x="382" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-19" value="应用层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="27" y="44" width="126" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="217" y="12" width="506" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-72" value="基础模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="227" y="37" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-74" value="社交模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="513" y="37" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-73" value="视频模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="370" y="37" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-76" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="649" y="30.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="217" y="84" width="506" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-79" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="229" y="87" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-94" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="370" y="87" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-93" value="视频分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="511" y="87" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-95" value="视频管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="229" y="117" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-96" value="客户端服务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="370" y="117" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-97" value="后台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-16">
+          <mxGeometry x="649" y="96" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="41" y="-562" width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-12">
+          <mxGeometry width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dtvHrzLsLEVOdEbu_5ml-12" source="dtvHrzLsLEVOdEbu_5ml-13" target="dtvHrzLsLEVOdEbu_5ml-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="199" as="sourcePoint" />
+            <mxPoint x="382" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-15" value="数据层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-12">
+          <mxGeometry x="27" y="44" width="126" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-70" value="数据存储MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-12">
+          <mxGeometry x="274" y="33.5" width="108" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-71" value="数据持久化Rides" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-12">
+          <mxGeometry x="470" y="35" width="108" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="41" y="-874" width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-21">
+          <mxGeometry width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dtvHrzLsLEVOdEbu_5ml-21" source="dtvHrzLsLEVOdEbu_5ml-22" target="dtvHrzLsLEVOdEbu_5ml-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="199" as="sourcePoint" />
+            <mxPoint x="382" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-24" value="展现层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-21">
+          <mxGeometry x="27" y="44" width="126" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-98" value="PC浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-21">
+          <mxGeometry x="286" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="41" y="-247" width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dtvHrzLsLEVOdEbu_5ml-49" source="dtvHrzLsLEVOdEbu_5ml-2" target="dtvHrzLsLEVOdEbu_5ml-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="201" as="sourcePoint" />
+            <mxPoint x="382" y="151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-5" value="基础设施层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="27" y="46" width="126" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="226" y="37" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-26" value="网络" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="233" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="352" y="39" width="361" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-40" value="" style="group" vertex="1" connectable="0" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="369" y="73" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-40">
+          <mxGeometry y="2" width="94" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-29" value="缓存服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-40">
+          <mxGeometry x="13" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-41" value="" style="group" vertex="1" connectable="0" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="493" y="73" width="220" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-41">
+          <mxGeometry y="2" width="94" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-43" value="web服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-41">
+          <mxGeometry x="13" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-44" value="" style="group" vertex="1" connectable="0" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="615" y="73" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-44">
+          <mxGeometry y="2" width="94" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-46" value="数据库服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-44">
+          <mxGeometry x="13" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-47" value="服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dtvHrzLsLEVOdEbu_5ml-49">
+          <mxGeometry x="486" y="39" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="-406" width="739" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dtvHrzLsLEVOdEbu_5ml-9" target="dtvHrzLsLEVOdEbu_5ml-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373" y="-207" as="sourcePoint" />
+            <mxPoint x="423" y="-257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-11" value="基础服务" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="68" y="-362" width="126" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-50" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="-378" width="77" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-63" value="短信发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-378" width="77" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-64" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="-378" width="77" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-65" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="-378" width="77" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-67" value="日志记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="-322" width="77" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-68" value="gateaway网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="-322" width="77" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvHrzLsLEVOdEbu_5ml-69" value="nacos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-322" width="77" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
